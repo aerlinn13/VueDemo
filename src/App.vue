@@ -20,16 +20,12 @@
 </template>
 
 <script>
-import Sidebar from 'components/Sidebar.vue'
 import HeaderSection from 'components/HeaderSection.vue'
-import TabSection from 'components/TabSection.vue'
 
 export default {
   name: 'app',
   components: {
-    Sidebar,
     HeaderSection,
-    TabSection
   },
   computed: {
     isShowSidebar () {

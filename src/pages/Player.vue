@@ -61,7 +61,7 @@ export default {
       this.$store.dispatch('getPlayers')
     },
     openTeam (team) {
-      this.$router.push({ path: `/team/${team.id}` })
+      this.$router.push({ path: `/team/${team.team_id}` })
     },
     getFlagUrl(player) {
     return player.flag_url;
