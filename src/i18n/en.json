@@ -1,0 +1,16 @@
+{
+  "project": {
+    "title": "Alpha FX Teams",
+    "desc": "Alpha FX VueJS Demo"
+  },
+  "home": {
+    "noTeams": "No teams found"
+  },
+  "team": {
+    "noPlayers": "No players found for this team",
+    "noGames": "No games found for this team"
+  },
+  "player": {
+    "noHistory": "No team history found for this player"
+  }
+}
