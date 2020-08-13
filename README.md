@@ -2,7 +2,7 @@
 + Vue.js
 + Vue-Router
 + Axios
-+ Webpack
++ Webpack good
 
 ### Development
 + Install dependency : `npm install` or `yarn install`
